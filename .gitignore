@@ -1,5 +1,8 @@
-/.ipynb_checkpoints
+**/.ipynb_checkpoints
 /.vscode
+**/__pycache__
+**/data/raw
+**/data/processed
 /3seg+conjugated 8_26
 /3seg+conjugated 8_26_corrected
 /segmentation results

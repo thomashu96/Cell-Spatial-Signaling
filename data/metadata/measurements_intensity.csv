@@ -1,4 +1,4 @@
-Cell mean_intensity,Nuclei mean_intensity,Cyto mean_intensity,Marker,Condition,Id
+Cell_mean_intensity,Nuclei_mean_intensity,Cyto_mean_intensity,Marker,Condition,Id
 1473.3074279939362,8407.89026915114,1117.442201444964,Concanavadin A,Fw1,2
 213.94087923193533,300.39026915113874,209.5045155121122,APC,Fw1,2
 87.49802930773117,94.75258799171843,87.12574373140671,Cyclin D1,Fw1,2

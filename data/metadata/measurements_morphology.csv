@@ -1,4 +1,4 @@
-Cell area,Nuclei area,Cyto area,Marker,Condition,Id
+Cell_area,Nuclei_area,Cyto_area,Marker,Condition,Id
 19790,966,18824,Concanavadin A,Fw1,2
 28670,4147,24523,Concanavadin A,Fw1,3
 34505,5023,29482,Concanavadin A,Fw1,4
